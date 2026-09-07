@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Brian
+#  Hi, I'm Brian
 
-🎓 IT Graduate | 💻 Aspiring Full-Stack Developer  
-📍 Warrenton, South Africa  
+ IT Graduate |  Aspiring Full-Stack Developer  
+ Warrenton, South Africa  
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a passionate IT graduate interested in building modern web and mobile applications.  
 I enjoy learning new technologies and improving my development skills through practical projects.
 
 ---
 
-## 🛠️ Technologies I Work With
+##  Technologies I Work With
 - ASP.NET Core
 - C#
 - React
@@ -23,35 +23,35 @@ I enjoy learning new technologies and improving my development skills through pr
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🛒 E-Commerce Website
+### E-Commerce Website
 A responsive web application built using Html, javascript, and CSS.  
 🔗 Live Project: https://benevolent-lebkuchen-e1634c.netlify.app/
 
 ---
 
-### 🎓 Student Management System
+### Student Management System
 Built using ASP.NET Core with database integration and CRUD functionality.
 
 ---
 
-### 📱 Consultation Booking App
+### Consultation Booking App
 Mobile application built using Flutter and Firebase using MVVM architecture.
 
 ---
 
-## 📈 Goals
+## Goals
 - Improve full-stack development skills  
 - Build real-world applications  
 - Gain industry experience  
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/brian-tshabile-7b2311407/
+## Contact
+- LinkedIn: Brian Tshabile
 - Email: btshabile2@gmail.com
 
 ---
 
-⭐ Always learning and open to opportunities
+Always learning and open to opportunities
